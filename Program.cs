@@ -8,8 +8,8 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
 namespace dotNetMVCApp
-{
-    public class Program
+{   
+        public class Program
     {
         public static void Main(string[] args)
         {
